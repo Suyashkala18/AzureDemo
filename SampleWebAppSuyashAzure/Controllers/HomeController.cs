@@ -15,7 +15,7 @@ namespace SampleWebAppSuyashAzure.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Suyash Kala Application";
+            ViewBag.Message = "Suyash Kala Application Updated";
 
             return View();
         }
